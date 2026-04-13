@@ -38,12 +38,12 @@ A Semiografia não privilegia nenhum desses modos. Ela os itera todos sobre cada
 O objeto da inflexão não é o signo linguístico saussuriano (significante/significado, arbitrário, linear). É o signo peirciano em regime multissemiótico:
 Multissemiótico = pertencente a múltiplos sistemas de signos simultaneamente. Uma canção é som, palavra, ritmo, melodia, harmonia, performance corporal, gesto, registro fonográfico, partitura, vídeo. Cada camada é uma semiose distinta. O signo multissemiótico é a travessia dessas camadas.
 Peirce definiu o signo como relação triádica irredutível:
-Signo (Representamen)
 plain
 Copy
-   /         
-  /           
-Objeto ←————→ Interpretante
+Signo (Representamen)
+       /         \
+      /           \
+ Objeto ←————→ Interpretante
 Mas na Semiografia, o signo é considerado em sua multidimensionalidade semiótica real — não em uma semiose isolada, mas no entrecruzamento de todas as semioses em que participa.
 Um mapa, por exemplo, é simultaneamente:
 Ícone (semelhança com o território)
