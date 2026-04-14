@@ -11,7 +11,7 @@ Aqui vivem — em estado de elaboração permanente — pesquisas, projetos téc
 experimentos filosóficos, protótipos e registros de realizações.
 
 Não é um blog. Não é um portfólio estático.  
-É um organismo.
+É um organismo cyborg.
 
 ---
 
