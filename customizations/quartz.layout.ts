@@ -11,7 +11,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/guilherme-machado-ceo",
-      LinkedIn: "https://www.linkedin.com/in/guilhermehmachado/",
+      LinkedIn: "https://www.linkedin.com/in/guilhermegoncalvesmachado/",
     },
   }),
 }
