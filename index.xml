@@ -1,70 +1,70 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-      <title>Guilherme Machado — Think Tank</title>
-      <link>https://guilherme-machado-ceo.github.io/gabinete-polimata-atlantico-sul</link>
-      <description>Últimas 10 notas on Guilherme Machado — Think Tank</description>
+      <title>Quartz 4</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Guilherme Machado — Think Tank</title>
-    <link>https://guilherme-machado-ceo.github.io/gabinete-polimata-atlantico-sul/</link>
-    <guid>https://guilherme-machado-ceo.github.io/gabinete-polimata-atlantico-sul/</guid>
-    <description><![CDATA[  Repositório vivo de ideias, projetos, realizações, MVPs e PoCs. Pesquisador independente, fundador e CEO baseado no Rio de Janeiro. ]]></description>
-    <pubDate>Sun, 26 Apr 2026 12:26:42 GMT</pubDate>
+    <title>template-nota-atomica</title>
+    <link>https://quartz.jzhao.xyz/03-Recursos/Templates/template-nota-atomica</link>
+    <guid>https://quartz.jzhao.xyz/03-Recursos/Templates/template-nota-atomica</guid>
+    <description><![CDATA[ {{título}} {{definição em uma linha}} Definição {{3-5 linhas de definição precisa}} Contexto {{onde se encaixa no ecossistema}} Conexões {{links para notas relacionadas}} Estado Status: {{rascunho / ativo / publicado}} Criado: {{data}} Atualizado: {{data}} Tags: {{tags}} . ]]></description>
+    <pubDate>Tue, 26 May 2026 13:58:12 GMT</pubDate>
   </item><item>
-    <title>README</title>
-    <link>https://guilherme-machado-ceo.github.io/gabinete-polimata-atlantico-sul/README</link>
-    <guid>https://guilherme-machado-ceo.github.io/gabinete-polimata-atlantico-sul/README</guid>
-    <description><![CDATA[ 🧠 Vault — Guilherme Machado Think tank polímata. Repositório vivo de ideias, projetos, realizações, MVPs e PoCs. ]]></description>
-    <pubDate>Sun, 26 Apr 2026 12:26:42 GMT</pubDate>
-  </item><item>
-    <title>MOC-todo-priorizado</title>
-    <link>https://guilherme-machado-ceo.github.io/gabinete-polimata-atlantico-sul/05-MOC/MOC-todo-priorizado</link>
-    <guid>https://guilherme-machado-ceo.github.io/gabinete-polimata-atlantico-sul/05-MOC/MOC-todo-priorizado</guid>
-    <description><![CDATA[ MOC — To-Do Priorizado — Ecossistema Hubstry 🔴 Esta semana Artigo NR-1 em goncalvesetalii.github.io (Claude Code) LinkedIn pessoal: post NR-1 + IMIP LinkedIn Hubstry: mapa regulatório 2026 Atualizar goncalvesetalii.github.io: BELLUM + publicações 🟠 Esta quinzena Obsidian: documentar vetores desta ... ]]></description>
-    <pubDate>Sun, 26 Apr 2026 12:26:42 GMT</pubDate>
-  </item><item>
-    <title>Bem-vindo ao Gabinete</title>
-    <link>https://guilherme-machado-ceo.github.io/gabinete-polimata-atlantico-sul/Bem-vindo-ao-Gabinete</link>
-    <guid>https://guilherme-machado-ceo.github.io/gabinete-polimata-atlantico-sul/Bem-vindo-ao-Gabinete</guid>
-    <description><![CDATA[ Bem-vindo ao Gabinete Bem-vindo ao Gabinete Polímata do Atlântico Sul: um território digital dedicado ao pensamento profundo e à inflexão humana sobre a realidade fenomênica. ]]></description>
-    <pubDate>Sun, 26 Apr 2026 12:26:42 GMT</pubDate>
-  </item><item>
-    <title>Overall Consultoria 720</title>
-    <link>https://guilherme-machado-ceo.github.io/gabinete-polimata-atlantico-sul/Overall-Consultoria-720</link>
-    <guid>https://guilherme-machado-ceo.github.io/gabinete-polimata-atlantico-sul/Overall-Consultoria-720</guid>
-    <description><![CDATA[ Overall Consultoria 720° 🌐 A Overall Consultoria 720° é uma Geopolitical Business PlatF(x)Form que atua na interseção entre inteligência artificial, análise geopolítica e sustentabilidade estratégica. ]]></description>
-    <pubDate>Sun, 26 Apr 2026 12:26:42 GMT</pubDate>
-  </item><item>
-    <title>MOC-ecossistema-hubstry</title>
-    <link>https://guilherme-machado-ceo.github.io/gabinete-polimata-atlantico-sul/05-MOC/MOC-ecossistema-hubstry</link>
-    <guid>https://guilherme-machado-ceo.github.io/gabinete-polimata-atlantico-sul/05-MOC/MOC-ecossistema-hubstry</guid>
-    <description><![CDATA[ MOC — Ecossistema Hubstry Deep Tech Mapa de navegação do ecossistema completo. ]]></description>
-    <pubDate>Sun, 26 Apr 2026 12:26:41 GMT</pubDate>
-  </item><item>
-    <title>MOC-pipeline-editorial</title>
-    <link>https://guilherme-machado-ceo.github.io/gabinete-polimata-atlantico-sul/05-MOC/MOC-pipeline-editorial</link>
-    <guid>https://guilherme-machado-ceo.github.io/gabinete-polimata-atlantico-sul/05-MOC/MOC-pipeline-editorial</guid>
-    <description><![CDATA[ MOC — Pipeline Editorial Rastreamento de todos os conteúdos em produção. ]]></description>
-    <pubDate>Sun, 26 Apr 2026 12:26:41 GMT</pubDate>
-  </item><item>
-    <title>BELLUM-overview</title>
-    <link>https://guilherme-machado-ceo.github.io/gabinete-polimata-atlantico-sul/02-Areas/regulacao/BELLUM-overview</link>
-    <guid>https://guilherme-machado-ceo.github.io/gabinete-polimata-atlantico-sul/02-Areas/regulacao/BELLUM-overview</guid>
-    <description><![CDATA[ BELLUM — pilar estratégico Gonçalves et Alii status: ativo tags: bellum dual-use dih geopolitica anthropic pentagon links: mapa-regulatorio-2026, LexScan-definicao, Qualia-Hub-overview A guerra como continuação da política por outros meios (Clausewitz). ]]></description>
-    <pubDate>Sun, 26 Apr 2026 12:26:41 GMT</pubDate>
-  </item><item>
-    <title>mapa-regulatorio-2026</title>
-    <link>https://guilherme-machado-ceo.github.io/gabinete-polimata-atlantico-sul/02-Areas/regulacao/mapa-regulatorio-2026</link>
-    <guid>https://guilherme-machado-ceo.github.io/gabinete-polimata-atlantico-sul/02-Areas/regulacao/mapa-regulatorio-2026</guid>
-    <description><![CDATA[ Mapa Regulatório Digital Brasil 2026 — vetores ativos status: ativo — monitoramento contínuo tags: regulacao nr1 ia codigo-civil redata quantum bellum links: NR1-radar, LexGraph-definicao, BELLUM-overview Quatro vetores convergentes: NR-1 psicossocial — punitivo 26/05/2026 PL 2338/2023 Marco IA — Câ... ]]></description>
-    <pubDate>Sun, 26 Apr 2026 12:26:41 GMT</pubDate>
+    <title>template-radar-regulatorio</title>
+    <link>https://quartz.jzhao.xyz/03-Recursos/Templates/template-radar-regulatorio</link>
+    <guid>https://quartz.jzhao.xyz/03-Recursos/Templates/template-radar-regulatorio</guid>
+    <description><![CDATA[ {{nome da norma}} — Radar Identificação Instrumento: {{lei / PL / portaria / decreto}} Número: {{número}} Status: {{vigente / tramitando / apensado}} Deadline: {{data ou “sem prazo fixo”}} O que muda {{o que a norma exige, em linguagem direta}} Sujeitos obrigados {{quem deve cumprir}} Sanções {{mult... ]]></description>
+    <pubDate>Tue, 26 May 2026 13:58:12 GMT</pubDate>
   </item><item>
     <title>template-conteudo-editorial</title>
-    <link>https://guilherme-machado-ceo.github.io/gabinete-polimata-atlantico-sul/03-Recursos/Templates/template-conteudo-editorial</link>
-    <guid>https://guilherme-machado-ceo.github.io/gabinete-polimata-atlantico-sul/03-Recursos/Templates/template-conteudo-editorial</guid>
+    <link>https://quartz.jzhao.xyz/03-Recursos/Templates/template-conteudo-editorial</link>
+    <guid>https://quartz.jzhao.xyz/03-Recursos/Templates/template-conteudo-editorial</guid>
     <description><![CDATA[ {{título do conteúdo}} Metadados Canal: {{LinkedIn pessoal / LinkedIn Hubstry / Substack / Zenodo / GitHub}} Formato: {{post / newsletter / artigo / paper / README}} Status: {{ideia / rascunho / revisão / publicado}} Publicado em: {{URL ou “pendente”}} Data alvo: {{data}} Gancho {{a primeira frase o... ]]></description>
-    <pubDate>Sun, 26 Apr 2026 12:26:41 GMT</pubDate>
+    <pubDate>Tue, 26 May 2026 13:58:12 GMT</pubDate>
+  </item><item>
+    <title>Solofounder OS — Framework de Excelência Operacional</title>
+    <link>https://quartz.jzhao.xyz/03-Recursos/frameworks/solofounder-os/</link>
+    <guid>https://quartz.jzhao.xyz/03-Recursos/frameworks/solofounder-os/</guid>
+    <description><![CDATA[ Framework de operação para founders bootstrap que priorizam excelência antes de escala. ]]></description>
+    <pubDate>Tue, 26 May 2026 03:00:00 GMT</pubDate>
+  </item><item>
+    <title>Sistema Operacional (OS) — Solofounder OS</title>
+    <link>https://quartz.jzhao.xyz/03-Recursos/frameworks/solofounder-os/os</link>
+    <guid>https://quartz.jzhao.xyz/03-Recursos/frameworks/solofounder-os/os</guid>
+    <description><![CDATA[ Sistema Operacional — os 5 módulos O OS (Operating System) do negócio é dividido em cinco módulos que cobrem o ciclo completo de vida de um cliente ou projeto. ]]></description>
+    <pubDate>Tue, 26 May 2026 03:00:00 GMT</pubDate>
+  </item><item>
+    <title>Pipeline Unificado — Solofounder OS</title>
+    <link>https://quartz.jzhao.xyz/03-Recursos/frameworks/solofounder-os/pipeline</link>
+    <guid>https://quartz.jzhao.xyz/03-Recursos/frameworks/solofounder-os/pipeline</guid>
+    <description><![CDATA[ Pipeline Unificado “Cada etapa = um processo documentado. ]]></description>
+    <pubDate>Tue, 26 May 2026 03:00:00 GMT</pubDate>
+  </item><item>
+    <title>Princípios — Solofounder OS</title>
+    <link>https://quartz.jzhao.xyz/03-Recursos/frameworks/solofounder-os/principios</link>
+    <guid>https://quartz.jzhao.xyz/03-Recursos/frameworks/solofounder-os/principios</guid>
+    <description><![CDATA[ Princípios A tese central “Escala amplifica sistemas, não corrige falhas.” O mercado valoriza narrativa, crescimento e ambição. ]]></description>
+    <pubDate>Tue, 26 May 2026 03:00:00 GMT</pubDate>
+  </item><item>
+    <title>Template — Ferramenta</title>
+    <link>https://quartz.jzhao.xyz/03-Recursos/frameworks/solofounder-os/templates/ferramenta</link>
+    <guid>https://quartz.jzhao.xyz/03-Recursos/frameworks/solofounder-os/templates/ferramenta</guid>
+    <description><![CDATA[ Template — Ferramenta Cada ferramenta no seu stack deveria ter uma função definida, uma justificativa clara e uma alternativa caso falhe. ]]></description>
+    <pubDate>Tue, 26 May 2026 03:00:00 GMT</pubDate>
+  </item><item>
+    <title>Template — Pipeline</title>
+    <link>https://quartz.jzhao.xyz/03-Recursos/frameworks/solofounder-os/templates/pipeline</link>
+    <guid>https://quartz.jzhao.xyz/03-Recursos/frameworks/solofounder-os/templates/pipeline</guid>
+    <description><![CDATA[ Template — Pipeline Pipeline é uma sequência com estado automatizado — o sistema faz parte do trabalho. ]]></description>
+    <pubDate>Tue, 26 May 2026 03:00:00 GMT</pubDate>
+  </item><item>
+    <title>Template — SOP (Standard Operating Procedure)</title>
+    <link>https://quartz.jzhao.xyz/03-Recursos/frameworks/solofounder-os/templates/sop</link>
+    <guid>https://quartz.jzhao.xyz/03-Recursos/frameworks/solofounder-os/templates/sop</guid>
+    <description><![CDATA[ Template — SOP SOP (Standard Operating Procedure) é a documentação de um processo que você quer que aconteça da mesma forma toda vez — seja por você, por uma ferramenta, ou por outra pessoa no futuro. ]]></description>
+    <pubDate>Tue, 26 May 2026 03:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>

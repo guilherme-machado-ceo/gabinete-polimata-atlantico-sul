@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Quartz 4</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on Quartz 4</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>template-nota-atomica</title>
+    <link>https://quartz.jzhao.xyz/03-Recursos/Templates/template-nota-atomica</link>
+    <guid>https://quartz.jzhao.xyz/03-Recursos/Templates/template-nota-atomica</guid>
+    <description><![CDATA[ {{título}} {{definição em uma linha}} Definição {{3-5 linhas de definição precisa}} Contexto {{onde se encaixa no ecossistema}} Conexões {{links para notas relacionadas}} Estado Status: {{rascunho / ativo / publicado}} Criado: {{data}} Atualizado: {{data}} Tags: {{tags}} . ]]></description>
+    <pubDate>Tue, 26 May 2026 13:58:12 GMT</pubDate>
+  </item><item>
+    <title>template-radar-regulatorio</title>
+    <link>https://quartz.jzhao.xyz/03-Recursos/Templates/template-radar-regulatorio</link>
+    <guid>https://quartz.jzhao.xyz/03-Recursos/Templates/template-radar-regulatorio</guid>
+    <description><![CDATA[ {{nome da norma}} — Radar Identificação Instrumento: {{lei / PL / portaria / decreto}} Número: {{número}} Status: {{vigente / tramitando / apensado}} Deadline: {{data ou “sem prazo fixo”}} O que muda {{o que a norma exige, em linguagem direta}} Sujeitos obrigados {{quem deve cumprir}} Sanções {{mult... ]]></description>
+    <pubDate>Tue, 26 May 2026 13:58:12 GMT</pubDate>
+  </item><item>
+    <title>template-conteudo-editorial</title>
+    <link>https://quartz.jzhao.xyz/03-Recursos/Templates/template-conteudo-editorial</link>
+    <guid>https://quartz.jzhao.xyz/03-Recursos/Templates/template-conteudo-editorial</guid>
+    <description><![CDATA[ {{título do conteúdo}} Metadados Canal: {{LinkedIn pessoal / LinkedIn Hubstry / Substack / Zenodo / GitHub}} Formato: {{post / newsletter / artigo / paper / README}} Status: {{ideia / rascunho / revisão / publicado}} Publicado em: {{URL ou “pendente”}} Data alvo: {{data}} Gancho {{a primeira frase o... ]]></description>
+    <pubDate>Tue, 26 May 2026 13:58:12 GMT</pubDate>
+  </item><item>
+    <title>Solofounder OS — Framework de Excelência Operacional</title>
+    <link>https://quartz.jzhao.xyz/03-Recursos/frameworks/solofounder-os/</link>
+    <guid>https://quartz.jzhao.xyz/03-Recursos/frameworks/solofounder-os/</guid>
+    <description><![CDATA[ Framework de operação para founders bootstrap que priorizam excelência antes de escala. ]]></description>
+    <pubDate>Tue, 26 May 2026 03:00:00 GMT</pubDate>
+  </item><item>
+    <title>Sistema Operacional (OS) — Solofounder OS</title>
+    <link>https://quartz.jzhao.xyz/03-Recursos/frameworks/solofounder-os/os</link>
+    <guid>https://quartz.jzhao.xyz/03-Recursos/frameworks/solofounder-os/os</guid>
+    <description><![CDATA[ Sistema Operacional — os 5 módulos O OS (Operating System) do negócio é dividido em cinco módulos que cobrem o ciclo completo de vida de um cliente ou projeto. ]]></description>
+    <pubDate>Tue, 26 May 2026 03:00:00 GMT</pubDate>
+  </item><item>
+    <title>Pipeline Unificado — Solofounder OS</title>
+    <link>https://quartz.jzhao.xyz/03-Recursos/frameworks/solofounder-os/pipeline</link>
+    <guid>https://quartz.jzhao.xyz/03-Recursos/frameworks/solofounder-os/pipeline</guid>
+    <description><![CDATA[ Pipeline Unificado “Cada etapa = um processo documentado. ]]></description>
+    <pubDate>Tue, 26 May 2026 03:00:00 GMT</pubDate>
+  </item><item>
+    <title>Princípios — Solofounder OS</title>
+    <link>https://quartz.jzhao.xyz/03-Recursos/frameworks/solofounder-os/principios</link>
+    <guid>https://quartz.jzhao.xyz/03-Recursos/frameworks/solofounder-os/principios</guid>
+    <description><![CDATA[ Princípios A tese central “Escala amplifica sistemas, não corrige falhas.” O mercado valoriza narrativa, crescimento e ambição. ]]></description>
+    <pubDate>Tue, 26 May 2026 03:00:00 GMT</pubDate>
+  </item><item>
+    <title>Template — Ferramenta</title>
+    <link>https://quartz.jzhao.xyz/03-Recursos/frameworks/solofounder-os/templates/ferramenta</link>
+    <guid>https://quartz.jzhao.xyz/03-Recursos/frameworks/solofounder-os/templates/ferramenta</guid>
+    <description><![CDATA[ Template — Ferramenta Cada ferramenta no seu stack deveria ter uma função definida, uma justificativa clara e uma alternativa caso falhe. ]]></description>
+    <pubDate>Tue, 26 May 2026 03:00:00 GMT</pubDate>
+  </item><item>
+    <title>Template — Pipeline</title>
+    <link>https://quartz.jzhao.xyz/03-Recursos/frameworks/solofounder-os/templates/pipeline</link>
+    <guid>https://quartz.jzhao.xyz/03-Recursos/frameworks/solofounder-os/templates/pipeline</guid>
+    <description><![CDATA[ Template — Pipeline Pipeline é uma sequência com estado automatizado — o sistema faz parte do trabalho. ]]></description>
+    <pubDate>Tue, 26 May 2026 03:00:00 GMT</pubDate>
+  </item><item>
+    <title>Template — SOP (Standard Operating Procedure)</title>
+    <link>https://quartz.jzhao.xyz/03-Recursos/frameworks/solofounder-os/templates/sop</link>
+    <guid>https://quartz.jzhao.xyz/03-Recursos/frameworks/solofounder-os/templates/sop</guid>
+    <description><![CDATA[ Template — SOP SOP (Standard Operating Procedure) é a documentação de um processo que você quer que aconteça da mesma forma toda vez — seja por você, por uma ferramenta, ou por outra pessoa no futuro. ]]></description>
+    <pubDate>Tue, 26 May 2026 03:00:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
