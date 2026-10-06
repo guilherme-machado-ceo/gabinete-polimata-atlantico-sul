@@ -1,0 +1,1 @@
+Inflexão do pensamento humano incidindo sobre o conjunto universo dos fenômenos, instanciando-se em paralelo ou série em múltiplas áreas do conhecimento, em comparação e contraste sistemáticos operada pela analogia (heurística, funcional ou homologia), em um fluxo contínuo de pesquisa,  estudo, criação, ensino e produção econômica. 
